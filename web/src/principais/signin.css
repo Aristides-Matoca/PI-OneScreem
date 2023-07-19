@@ -1,0 +1,73 @@
+.container2{
+    font-family: 'Times New Roman', Times, serif;
+    background: black;
+    transform: translate(-50px, 0);
+    border-radius: 20px;
+    padding: 7%;
+    width: 130%;
+    color: white;
+}
+
+.header2{
+    color: red;
+    background: none;
+    display: inline-flex;
+    transform: translate(-557.3px, -71.5px);
+}
+
+.header2:hover{
+    cursor: pointer;
+}
+
+.header2>h3{
+    background: none;
+    font-size: 23px;
+}
+
+.play2{
+    background: none;
+    font-size: 23.5px;
+}
+
+.title2{
+    background: none;
+    font-size: 24px;
+    display: flex;
+    margin-top: -10%;
+    margin-bottom: 5%;
+    padding-left: 6%;
+}
+
+.label2{
+    font-weight: bold;
+    background: none;
+    font-size: 14px;
+    display: flex;
+}
+
+.in2{
+    background: black;
+    border: 1px solid red;
+    margin-bottom: 7%;
+    display: flex;
+}
+
+.btn2{
+    background: black;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    width: 70%;
+}
+
+.reg2{
+    background: none;
+}
+
+.link2{
+    background: none;
+    color: black;
+}
+
+.custom-swal-container {
+    background-color: #fff; /* Set the desired background color, e.g., white */
+  }

@@ -1,0 +1,102 @@
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    background: black;
+    color: white;
+    transform: translate(-40px, 0);
+    border-radius: 20px;
+    padding: 12%;
+    width: 130%;
+}
+
+.header1{
+    color: red;
+    background: none;
+    display: inline-flex;
+    transform: translate(-562px, -115px);
+}
+
+.header1:hover{
+    cursor: pointer;
+}
+
+.header1>h3{
+    background: none;
+    font-size: 23.3px;
+}
+
+.play1{
+    background: none;
+    font-size: 23.3px;
+}
+
+.title1{
+    background: none;
+    font-size: 27px;
+    display: flex;
+    margin-bottom: 10%;
+    padding-left: 3%;
+}
+
+.label1{
+    font-weight: bold;
+    background: none;
+    font-size: 14px;
+    display: flex;
+}
+
+.in1{
+    background: black;
+    border: 1px solid red;
+    margin-bottom: 12%;
+    display: flex;
+}
+
+.btn1{
+    background: red;
+    border-radius: 10px;
+    margin-bottom: 12%;
+    width: 70%;
+}
+
+.btn-link{
+    color: white;
+    background: none;
+    text-decoration: none;
+}
+
+.btn-link:hover{
+    color: white;
+}
+
+.span{
+    color: red;
+    background: none;
+}
+
+.span:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+.reg{
+    background: none;
+}
+
+#linkConta{
+    color: black;
+}
+
+#linkPerfil{
+    color: white;
+    background-color: black;
+}
+
+#linkUpload{
+    color: white;
+    background-color: black;
+}
+
+#remove{
+    margin-left: 4%;
+}
+
